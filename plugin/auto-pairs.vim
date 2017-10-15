@@ -1,0 +1,1 @@
+../lib/auto-pairs/plugin/auto-pairs.vim

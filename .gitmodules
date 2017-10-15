@@ -1,0 +1,15 @@
+[submodule "lib/vim-code-dark"]
+	path = lib/vim-code-dark
+	url = git@github.com:ghinch/vim-code-dark.git
+[submodule "lib/auto-pairs"]
+	path = lib/auto-pairs
+	url = git@github.com:ghinch/auto-pairs.git
+[submodule "lib/vim-commentary"]
+	path = lib/vim-commentary
+	url = git@github.com:ghinch/vim-commentary.git
+[submodule "lib/vim-python-pep8-indent"]
+	path = lib/vim-python-pep8-indent
+	url = git@github.com:ghinch/vim-python-pep8-indent.git
+[submodule "lib/vim-surround"]
+	path = lib/vim-surround
+	url = git@github.com:ghinch/vim-surround.git
