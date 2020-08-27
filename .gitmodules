@@ -13,3 +13,6 @@
 [submodule "lib/vim-surround"]
 	path = lib/vim-surround
 	url = git@github.com:ghinch/vim-surround.git
+[submodule "lib/vim-terraform"]
+	path = lib/vim-terraform
+	url = https://github.com/hashivim/vim-terraform.git
