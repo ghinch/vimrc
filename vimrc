@@ -75,6 +75,7 @@ let test#strategy = 'neovim'
 let test#python#runner = 'nose'
 " }}}
 autocmd FileType python setlocal commentstring=#\ %s " sets the comment string for python to #
+autocmd FileType yaml setlocal ts=2 sts=2 sw=2 expandtab
 " Custom Functions {{{
 " function! ToggleNumber()
 "     if(&relativenumber == 1)
@@ -111,3 +112,4 @@ autocmd FileType python setlocal commentstring=#\ %s " sets the comment string f
 " }}}
 
 " vim:foldmethod=marker:foldlevel=0
+let g:flake8_cmd = '/usr/local/bin/flake8'
