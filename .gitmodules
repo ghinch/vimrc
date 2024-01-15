@@ -16,3 +16,6 @@
 [submodule "lib/vim-terraform"]
 	path = lib/vim-terraform
 	url = https://github.com/hashivim/vim-terraform.git
+[submodule "pack/jvirtanen/start/vim-hcl"]
+	path = pack/jvirtanen/start/vim-hcl
+	url = https://github.com/jvirtanen/vim-hcl.git
